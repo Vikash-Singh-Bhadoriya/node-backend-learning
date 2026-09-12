@@ -1,0 +1,12 @@
+{
+  "name": "node-backend-learning",
+  "version": "1.0.0",
+  "description": "Learning Node.js HTTP basics",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
